@@ -2,8 +2,6 @@
 
 Inteligência Computacional
 
-
-
 ### Projetos
 
 - Seleção de Variações usando Algoritmo Genético
